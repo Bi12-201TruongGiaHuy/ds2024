@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Truong Gia Huy
+* Student ID: BI12-201
 * Student Group ID: Not-for-now
